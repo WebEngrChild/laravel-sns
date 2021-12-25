@@ -100,6 +100,15 @@
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/sebastian/object-reflector" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/symfony/process" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/league/oauth1-client" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/laravel/socialite" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-client" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
