@@ -109,6 +109,8 @@
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-factory" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/barryvdh/laravel-debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/maximebf/debugbar" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
